@@ -1,0 +1,2 @@
+# kadaikenkyuu_sakuhin
+高校三年生による課題研究の作品です。zipファイルをダウンロードしてTOctacore.exeを実行してください。
