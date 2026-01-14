@@ -1,2 +1,2 @@
 # kadaikenkyuu_sakuhin
-高校三年生による課題研究の作品です。tagを押してリリースのページからzipファイルをダウンロードしてTOctacore.exeを実行してください。
+高校三年生による課題研究の作品です。tagを押してリリースのページからGame.zipのファイルをダウンロードしてTOctacore.exeを実行してください。
